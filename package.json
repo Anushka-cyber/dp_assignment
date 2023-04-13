@@ -1,0 +1,11 @@
+{
+  "name": "anushka_dp_assignment",
+  "version": "1.0.0",
+  "description": "dp_assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
